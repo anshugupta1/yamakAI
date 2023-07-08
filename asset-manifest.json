@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/yamak.ai/static/css/main.1622ffd7.css",
-    "main.js": "/yamak.ai/static/js/main.8cb8cfb5.js",
+    "main.js": "/yamak.ai/static/js/main.fdbe436a.js",
     "index.html": "/yamak.ai/index.html",
     "main.1622ffd7.css.map": "/yamak.ai/static/css/main.1622ffd7.css.map",
-    "main.8cb8cfb5.js.map": "/yamak.ai/static/js/main.8cb8cfb5.js.map"
+    "main.fdbe436a.js.map": "/yamak.ai/static/js/main.fdbe436a.js.map"
   },
   "entrypoints": [
     "static/css/main.1622ffd7.css",
-    "static/js/main.8cb8cfb5.js"
+    "static/js/main.fdbe436a.js"
   ]
 }
