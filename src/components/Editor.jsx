@@ -5,7 +5,7 @@ import 'react-quill/dist/quill.snow.css';
 
 const modules = {
     toolbar: [
-        ["bold"], ["italic"], ["underline"], ["strike"], ["link"]
+        ["bold"], ["italic"], ["underline"], ["strike"]
 
     ]
 }
